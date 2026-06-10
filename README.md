@@ -33,6 +33,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 *Add your own walkthrough GIF or screen recording link here once available.*
+[<img width="854" height="488" alt="image" src="https://github.com/user-attachments/assets/b1bd84a6-1369-4222-89a5-3003e7ea46b7" />](https://imgur.com/a/KlXFw8v)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
