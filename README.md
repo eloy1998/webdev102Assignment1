@@ -1,10 +1,10 @@
 # Engineering Events & Resources Board
 
-Submitted by: **Your Name Here**
+Submitted by: **Your Name**
 
 This web app: **Displays a community board of upcoming software engineering events, workshops, and learning resources in a responsive card layout.**
 
-Time spent: **X hours spent in total**
+Time spent: **[Enter total hours spent]**
 
 ## Required Features
 
@@ -26,20 +26,20 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you added to improve the site's functionality!
+- [x] Clickable cards link to real learning resources and event pages
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+*Add your own walkthrough GIF or screen recording link here once available.*
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
 
 ## Notes
 
-I built a fully responsive React app using Vite, created reusable card components, and added clickable resource links to each event card. The main challenge was styling the layout to look consistent on both desktop and mobile screens.
+I built a fully responsive React app using Vite, created reusable card components, and added clickable resource links to each event card. The main challenge was styling the layout to look consistent on both desktop and mobile screens, and I also cleaned up placeholder content so the app is ready to submit.
 
 ## License
 
